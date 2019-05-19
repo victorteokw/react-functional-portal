@@ -1,6 +1,6 @@
 {
   "name": "react-functional-portal",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "The tiniest react portal implemented with hook.",
   "main": "index.js",
   "scripts": {
